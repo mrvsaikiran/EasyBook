@@ -1,0 +1,54 @@
+[
+    
+    {
+    "Id": "1",
+    "Name":"Leo",
+    "Genre":"Action/Thriller",
+    "Type":"movie",
+    "Price":"250"
+
+    },
+
+    {
+      "Id": "2",
+      "Name":"Marvels",
+      "Genre":"Action",
+      "Type":"movie",
+      "Price":"300"
+  
+    },
+    {
+        "Id": "3",
+        "Name":"Mad",
+        "Genre":"Comedy/Drama",
+        "Type":"movie",
+        "Price":"250"
+    
+    },
+    {
+          "Id": "4",
+          "Name":"Kalki",
+          "Genre":"Sci-fi",
+          "Type":"movie",
+          "Price":"250"
+      
+    },
+    {
+            "Id": "5",
+            "Name":"OMG 2",
+            "Genre":"Sci-fi",
+            "Type":"movie",
+            "Price":"250"
+        
+    },
+    {
+      "Id": "6",
+      "Name":"Spyderman",
+      "Genre":"Action",
+      "Type":"movie",
+      "Price":"300"
+  
+    }
+  
+  
+  ]
